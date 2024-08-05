@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517633276825",
+    "project_id": "worldnews-d2979",
+    "storage_bucket": "worldnews-d2979.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517633276825:android:2df0153c7278f1a822b108",
+        "android_client_info": {
+          "package_name": "com.example.worldnews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChzEe1_Ew13BkqQGRAHpnO_7QFiinBork"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

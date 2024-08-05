@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/newsFragment"
+        android:enabled="true"
+        android:icon="@drawable/cv_news"
+        android:title="NEWS"/>
+
+    <item
+        android:id="@+id/saveFragment"
+        android:enabled="true"
+        android:icon="@drawable/save_enabled"
+        android:title="SAVE"/>
+
+    <item
+        android:id="@+id/settingFragment"
+        android:enabled="true"
+        android:icon="@drawable/cv_search"
+        android:title="SEARCH"/>
+
+</menu>
